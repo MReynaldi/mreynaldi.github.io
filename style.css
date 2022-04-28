@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #c6ad8f;
+}
+#gallery {
+  background-color: #c6ad8f;
+}
+section {
+  padding-top: 5rem;
+}
+#fontjudul {
+  font-family: "Oleo Script Swash Caps", cursive;
+}
+.display-4 {
+  font-family: "Playfair Display", serif;
+}
+#penutup {
+  font-family: "Handlee", cursive;
+}
+.lead {
+  font-family: "Handlee", cursive;
+}
